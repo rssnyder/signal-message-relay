@@ -1,0 +1,6 @@
+logLevel = "debug"
+
+[signal]
+api = "signal-api.signal"
+number = "+14808407117"
+recipient = "+15159792049"
